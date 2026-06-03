@@ -39,6 +39,7 @@ The pipeline (`.github/workflows/ci.yml`) runs on every push or pull request to 
 
 ## 📁 Project Structure
 
+```
 cicd-pipeline-app/
 ├── .github/
 │   └── workflows/
@@ -47,6 +48,7 @@ cicd-pipeline-app/
 ├── package.json         # Dependencies & scripts
 ├── Dockerfile           # Container image definition
 └── README.md            # Project documentation
+```
 
 ## 🔐 Required Secrets
 
